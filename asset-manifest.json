@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5b852add.css",
-    "main.js": "/Portfolio/static/js/main.b1448715.js",
+    "main.js": "/Portfolio/static/js/main.228a855b.js",
     "static/js/453.26ca44d8.chunk.js": "/Portfolio/static/js/453.26ca44d8.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/Portfolio/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/Portfolio/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -66,11 +66,11 @@
     "static/media/About this.md": "/Portfolio/static/media/About this.67d4546c3cc84ec9472c.md",
     "index.html": "/Portfolio/index.html",
     "main.5b852add.css.map": "/Portfolio/static/css/main.5b852add.css.map",
-    "main.b1448715.js.map": "/Portfolio/static/js/main.b1448715.js.map",
+    "main.228a855b.js.map": "/Portfolio/static/js/main.228a855b.js.map",
     "453.26ca44d8.chunk.js.map": "/Portfolio/static/js/453.26ca44d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b852add.css",
-    "static/js/main.b1448715.js"
+    "static/js/main.228a855b.js"
   ]
 }
