@@ -32,7 +32,7 @@ function Sidebar() {
     <div className='Sidebar'>
       <h3>Portfolio</h3>
       <ul>
-        <Link className='Home_btn' to={'/'}>
+        <Link className='Home_btn' to={'/Portfolio'}>
         Home
         </Link>
         {Object.keys(markdownFiles).map((folder) => (

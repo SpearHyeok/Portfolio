@@ -11,7 +11,7 @@ function App() {
         <div style={{ flex: 1, padding: '20px' }}>
           <Routes>
             <Route path="/:folder/:markdownFile" element={<MarkdownPage />} />
-            <Route path="/" element={<div>Select a markdown file from the sidebar</div>} />
+            <Route path="/Portfolio" element={<div>Select a markdown file from the sidebar</div>} />
           </Routes>
         </div>
       </div>
