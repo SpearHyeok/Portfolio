@@ -1,0 +1,16 @@
+.Sidebar{
+    width: 200px;
+    border-right: 1px solid #ddd;
+    padding: 20px;
+}
+
+.sidebar-link, .Home_btn{
+    color: rgb(0, 0, 0); /* 원하는 글씨 색 지정 (여기서는 빨간색) */
+    text-decoration: none; /* 밑줄 제거 (필요 시) */
+
+  }
+  
+  .sidebar-link:hover {
+    color: darkred; /* 마우스를 올렸을 때 글씨 색 변경 (선택 사항) */
+    font-size: calc(100% + 3px);
+  }
