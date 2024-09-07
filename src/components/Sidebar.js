@@ -32,7 +32,7 @@ function Sidebar() {
     <div className='Sidebar'>
       <h3>Portfolio</h3>
       <ul>
-        <Link className='Home_btn' to={'/Portfolio'}>
+        <Link className='Home_btn' to={'/'}>
         Home
         </Link>
         {Object.keys(markdownFiles).map((folder) => (
@@ -42,7 +42,7 @@ function Sidebar() {
               <li key={file} style={{ listStyleType: 'none', marginLeft: '10px' }}>
                 <Link
                   to={`/${folder}/${file.replace('.md', '')}`}
-                  className="sidebar-link" // CSS 클래스 추가
+                  className="sidebar-link"
                 >
                   {file.replace('.md', '')}
                 </Link>
