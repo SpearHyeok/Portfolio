@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.5b852add.css",
-    "main.js": "/Portfolio/static/js/main.c295fe05.js",
-    "static/js/453.26ca44d8.chunk.js": "/Portfolio/static/js/453.26ca44d8.chunk.js",
+    "main.css": "/Portfolio/static/css/main.6712f03c.css",
+    "main.js": "/Portfolio/static/js/main.38139852.js",
+    "static/js/453.c69e6847.chunk.js": "/Portfolio/static/js/453.c69e6847.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/Portfolio/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/Portfolio/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
     "static/media/KaTeX_Main-Bold.ttf": "/Portfolio/static/media/KaTeX_Main-Bold.8169508bf58f8bd92ad8.ttf",
@@ -60,17 +60,19 @@
     "static/media/KaTeX_Size4-Regular.woff": "/Portfolio/static/media/KaTeX_Size4-Regular.aeffd8025cba3647f1a6.woff",
     "static/media/KaTeX_Size1-Regular.woff2": "/Portfolio/static/media/KaTeX_Size1-Regular.6eec866c69313624be60.woff2",
     "static/media/KaTeX_Size2-Regular.woff2": "/Portfolio/static/media/KaTeX_Size2-Regular.2960900c4f271311eb36.woff2",
+    "static/media/1. Móire 1-D chain.md": "/Portfolio/static/media/1. Móire 1-D chain.e7f12ddca0c5690d8e81.md",
     "static/media/KaTeX_Size4-Regular.woff2": "/Portfolio/static/media/KaTeX_Size4-Regular.e418bf257af1052628d8.woff2",
     "static/media/KaTeX_Size3-Regular.woff": "/Portfolio/static/media/KaTeX_Size3-Regular.7947224e8a9914fa332b.woff",
     "static/media/KaTeX_Size3-Regular.woff2": "/Portfolio/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
+    "static/media/2.Spin ham def.md": "/Portfolio/static/media/2.Spin ham def.5d8ff1cfb0bf92ebe381.md",
     "static/media/About this.md": "/Portfolio/static/media/About this.67d4546c3cc84ec9472c.md",
     "index.html": "/Portfolio/index.html",
-    "main.5b852add.css.map": "/Portfolio/static/css/main.5b852add.css.map",
-    "main.c295fe05.js.map": "/Portfolio/static/js/main.c295fe05.js.map",
-    "453.26ca44d8.chunk.js.map": "/Portfolio/static/js/453.26ca44d8.chunk.js.map"
+    "main.6712f03c.css.map": "/Portfolio/static/css/main.6712f03c.css.map",
+    "main.38139852.js.map": "/Portfolio/static/js/main.38139852.js.map",
+    "453.c69e6847.chunk.js.map": "/Portfolio/static/js/453.c69e6847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b852add.css",
-    "static/js/main.c295fe05.js"
+    "static/css/main.6712f03c.css",
+    "static/js/main.38139852.js"
   ]
 }
