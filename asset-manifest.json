@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.6712f03c.css",
-    "main.js": "/Portfolio/static/js/main.38139852.js",
+    "main.css": "/Portfolio/static/css/main.b2425bfd.css",
+    "main.js": "/Portfolio/static/js/main.22550495.js",
     "static/js/453.c69e6847.chunk.js": "/Portfolio/static/js/453.c69e6847.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/Portfolio/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/Portfolio/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -67,12 +67,13 @@
     "static/media/2.Spin ham def.md": "/Portfolio/static/media/2.Spin ham def.5d8ff1cfb0bf92ebe381.md",
     "static/media/About this.md": "/Portfolio/static/media/About this.67d4546c3cc84ec9472c.md",
     "index.html": "/Portfolio/index.html",
-    "main.6712f03c.css.map": "/Portfolio/static/css/main.6712f03c.css.map",
-    "main.38139852.js.map": "/Portfolio/static/js/main.38139852.js.map",
+    "static/media/Word.md": "/Portfolio/static/media/Word.d7f8802264bbab4fdb76.md",
+    "main.b2425bfd.css.map": "/Portfolio/static/css/main.b2425bfd.css.map",
+    "main.22550495.js.map": "/Portfolio/static/js/main.22550495.js.map",
     "453.c69e6847.chunk.js.map": "/Portfolio/static/js/453.c69e6847.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6712f03c.css",
-    "static/js/main.38139852.js"
+    "static/css/main.b2425bfd.css",
+    "static/js/main.22550495.js"
   ]
 }
