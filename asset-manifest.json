@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.2792a04a.css",
-    "main.js": "/Portfolio/static/js/main.f2960943.js",
+    "main.js": "/Portfolio/static/js/main.71df8804.js",
     "static/js/453.c69e6847.chunk.js": "/Portfolio/static/js/453.c69e6847.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/Portfolio/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/Portfolio/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -75,11 +75,11 @@
     "static/media/7. Spin relaxation.md": "/Portfolio/static/media/7. Spin relaxation.d4bfb52146b6bcb13bfa.md",
     "static/media/5. Spin definition.md": "/Portfolio/static/media/5. Spin definition.059cba47b9f7c31af91a.md",
     "main.2792a04a.css.map": "/Portfolio/static/css/main.2792a04a.css.map",
-    "main.f2960943.js.map": "/Portfolio/static/js/main.f2960943.js.map",
+    "main.71df8804.js.map": "/Portfolio/static/js/main.71df8804.js.map",
     "453.c69e6847.chunk.js.map": "/Portfolio/static/js/453.c69e6847.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2792a04a.css",
-    "static/js/main.f2960943.js"
+    "static/js/main.71df8804.js"
   ]
 }
